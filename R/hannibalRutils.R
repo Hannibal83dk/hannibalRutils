@@ -217,7 +217,6 @@ SectionComment <- function(text = "Example text", width = 80){
 }
 
 
-
 ######################################################
 ##						    ##
 ##  Find sample/water mix based on dilution factor  ##
