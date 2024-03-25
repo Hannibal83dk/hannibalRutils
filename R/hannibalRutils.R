@@ -175,7 +175,6 @@ dropcols <- function(data, colnames){
 
 
 }
-git_default_branch_rediscover()
 
 
 #' Create a section comment for easy division and overview of scripts
