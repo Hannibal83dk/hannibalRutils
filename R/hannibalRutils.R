@@ -183,7 +183,7 @@ dropcols <- function(data, colnames){
 #' @param text The text to be displayed, must be at least two characters shorter than width
 #' @param width How wide should the comment be
 #'
-#' @return A text containing the commnent
+#' @return A text containing the comment
 #' @export
 #'
 #' @examples
