@@ -12,7 +12,7 @@ SectionComment(text = "Example text", width = 80)
 \item{width}{How wide should the comment be}
 }
 \value{
-A text containing the commnent
+A text containing the comment
 }
 \description{
 Create a section comment for easy division and overview of scripts

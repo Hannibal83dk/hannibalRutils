@@ -7,7 +7,7 @@
 factorize(x)
 }
 \arguments{
-\item{x}{A vector to convert to vector, normally a column in a dataframe}
+\item{x}{A vector to convert to factor, normally a column in a dataframe}
 }
 \value{
 Returns nothing bu prints the code used for factorizing the specific column
