@@ -81,7 +81,7 @@ convertToCPR <- function(vector){
 
 #' Factorize a column in a dataframe
 #'
-#' @param x A vector to convert to vector, normally a column in a dataframe
+#' @param x A vector to convert to factor, normally a column in a dataframe
 #'
 #' @return Returns nothing bu prints the code used for factorizing the specific column
 #' @export
